@@ -3,3 +3,4 @@ feature 6
 new line fasdfaf
 new line
 replace feature 7 with feature 9
+new new line

@@ -1,5 +1,5 @@
 feature 7 bugFix
-feature 6
+feature 6 and feature 10
 new line fasdfaf
 new line
 replace feature 7 with feature 9

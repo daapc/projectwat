@@ -1,3 +1,6 @@
 feature1\nfeature 2
 feature 3
 new test
+fsaf
+again
+one more

@@ -1,4 +1,4 @@
-feature 7
+feature 7 bugFix
 feature 6
 new line
 new line

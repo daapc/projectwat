@@ -5,3 +5,4 @@ new line
 replace feature 7 with feature 9
 new new line
 hi
+hi again
